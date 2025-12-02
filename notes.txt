@@ -1,0 +1,3 @@
+Some useful notes.
+
+This assignment focuses on practicing essential Git and GitHub workflows, including repository setup, branching, collaboration, and merging. You begin by creating a local Git repository, adding a README.md file, and committing the initial changes.
